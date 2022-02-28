@@ -36,6 +36,7 @@ struct IssueDetail: View {
                     Image(systemName: item.state == "open" ? "tray.fill" : "xmark.bin.fill")
                         .resizable()
                         .frame(width:30, height:30)
+                        .foregroundColor(.blue)
                         
                 }
 

@@ -28,7 +28,6 @@ class GitHubIssues: ObservableObject {
             DispatchQueue.main.async {
                 if let issues = issues {
                     self.openIssues = issues.filter({ $0.state == "open" })
-                    print(self.openIssues)
                     self.closedIssues = issues.filter({ $0.state == "closed" })
                 }
             }
