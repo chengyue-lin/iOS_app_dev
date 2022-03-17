@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "3233848_day_forecast_morning_sun_sunny_icon.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "3233848_day_forecast_morning_sun_sunny_icon-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "3233848_day_forecast_morning_sun_sunny_icon-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
